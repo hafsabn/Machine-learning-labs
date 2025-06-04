@@ -1,6 +1,6 @@
 # Machine Learning Labs – AI & Data Science Track
 
-This repository contains a series of machine learning labs completed as part of my AI and Data Science studies. Each lab focuses on key foundational topics in ML, implemented using Python and essential data science libraries.
+This repository contains a series of machine learning labs completed as part of my AI and Data Science studies. Each lab focuses on key foundational topics in ML, implemented using Python and essential data science libraries..
 
 
 ## Lab Summaries
